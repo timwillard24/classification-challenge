@@ -1,6 +1,5 @@
 # classification-challenge
-Module 13 Challenge
-#Spam Detector
+## Module 13 Challenge - Spam Detector
 This project is focused on detecting spam using a machine learning approach. The dataset includes features such as word frequency, character frequency, and capital letter statistics to classify messages as spam or not spam.
 
 ## Project Structure
